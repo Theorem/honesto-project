@@ -16,6 +16,7 @@ Feel free to use any the following task if you are just getting warmed up:
 
 - [ ] Add a “no feedback” state to the review page per designs
 - [ ] Add A11y testing and update components to comply
+- [ ] Create a dark theme for the project
 - [ ] Write some documentation
 - [ ] Help the app be more responsive
 - [ ] Implement flagging questions
